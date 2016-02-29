@@ -113,7 +113,20 @@ th /*.clothing tr td*/ {
 .circle-img{
 	margin-top: 200px;
 	/*border-radius: 1%;*/
+/*@media(max-width: 1024px){}*/
 }
+@media(max-width: 510px){ 
+	nav ul li {
+        margin:5px 5px;
+    }
+
+ h1 {
+ 	font-size: 1rem;
+ }
 
 
+	}
+
+
+}
 
