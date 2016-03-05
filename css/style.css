@@ -123,7 +123,9 @@ th /*.clothing tr td*/ {
  h1 {
  	font-size: 1rem;
  }
-
-	}
+.icon {
+	background-color: transparent;
+	color:black;
+}
 
 
